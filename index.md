@@ -1,9 +1,26 @@
-<h1>Welcome to my website</h1>
-<p>This is about learning HTML and French</p>
+<h1><strong>Welcome to my website</strong></h1>
 
-<p>Season of mists and mellow fruitfulness<br>
-  Close-bosomed friend of the maturing sun<br>
-  Conspiring with him how to load and bless
-</p>
+<h2> SECTION 1<h/2>
+  <p>My name is Intisar and I am a second year French student. I am from London and was born and raised here. 
+  <a href="https://hub.qmplus.qmul.ac.uk/artefact/internal/index.php"> Visit my QMPlus Hub Page for SML209!</a>
+   <p/>
+  
+  <h3>To Do List</h3>
+  <ul>
+  <li>Do my French homework</li>
+  <li>Call my cat</li>
+  <li>Watch the Joker</li>
+  </ul>
+  
+  
+  <h4>My Favourite Things</h4>
+  
+<ol>
+  <li>Popcorn</li>
+  <li>Fast & Furious</li>
+  <li>Sunshine</li>
 
-<hr>
+
+
+
+
