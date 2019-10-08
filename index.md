@@ -5,13 +5,14 @@
   <a href="https://hub.qmplus.qmul.ac.uk/artefact/internal/index.php"> Visit my QMPlus Hub Page for SML209!</a>
    <p/>
   
+  <hr>
   <h3>To Do List</h3>
   <ul>
   <li>Do my French homework</li>
   <li>Call my cat</li>
   <li>Watch the Joker</li>
   </ul>
-  
+  <hr>
   
   <h4>My Favourite Things</h4>
   
