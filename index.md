@@ -23,7 +23,7 @@
 
 <a href="https://intisarmusa.github.io/sml5202-intisar/page2.html">Page 2</a>
 
-<a href="https://intisarmusa.github.io/sml5202-intisar/page3.html">Page3</a>
+<a href="https://intisarmusa.github.io/sml5202-intisar/page3.html">Page 3</a>
 
 
 
