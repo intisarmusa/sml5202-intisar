@@ -21,6 +21,9 @@
   <li>Fast & Furious</li>
   <li>Sunshine</li>
 
+<a>href="https://intisarmusa.github.io/sml5202-intisar/page2.html">Page 2</a>
+
+<a>href="https://intisarmusa.github.io/sml5202-intisar/page3.html">Page3</a>
 
 
 
