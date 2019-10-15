@@ -13,7 +13,7 @@
   
   <html lang="fr">
   <table>
-    <tr><th>Infinitif</th><th>Imparfait (1<sup>er</sup>per sing.)</th><th>Conditionnel Present(1<sup>er</sup>per sing.)</th></tr>
+    <tr><th>Infinitif</th><th>Imparfait (1<sup>er</sup>personne sing.)</th><th>Conditionnel Present(1<sup>er</sup>personne sing.)</th></tr>
     <tr><td>aller</td><td>allais</td><td>irais</td></tr>
     <tr><td>être</td><td>étais</td><td>serais</td></tr>
     <tr><td>faire</td><td>faisais</td><td>ferais</td></tr>
