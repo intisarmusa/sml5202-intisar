@@ -1,7 +1,7 @@
 <h1>HTML Part 2 Homework</h1>
 <p>The date is the 15<sup>th</sup> of October, 2019<p>
   
-  <imgsrc="https://images.unsplash.com/photo-1460627390041-532a28402358?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" SUNSET ON BEACH>
+  <imgsrc="https://images.unsplash.com/photo-1460627390041-532a28402358?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" alt="SUNSET ON BEACH" >
   
   <dl>
   <dt>Happiness</dt>
@@ -18,8 +18,7 @@
     <tr><td>être</td><td>étais</td><td>serais</td></tr>
     <tr><td>faire</td><td>faisais</td><td>ferais</td></tr>
     
-    
-    <html lang="zh-Hans">
-    
-    嗨，我喜欢你
+ <html lang+"zh-Hans">
+ 
+ 嗨，我喜欢你
       
