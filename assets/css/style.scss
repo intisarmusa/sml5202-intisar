@@ -2,6 +2,11 @@
 ---
 
 @import 'jekyll-theme-cayman';
+@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville&display=swap');
+
+body {
+ font-family: 'Libre Baskerville', serif;
+}
  
 .page-header {
       color: #fff;
