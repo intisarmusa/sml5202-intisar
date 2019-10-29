@@ -8,9 +8,9 @@
 <script>
 function makeSentence(){
 var person = {
-    names: [ "Intisar", "Martin", "Brian", "Cara", "He", "She", "The cat", "Dad" ],
-    verbs: [ "speaks", "eats", "drinks", "walks", "sleeps" ],
-    adverbs: [ "slowly", "quickly", "noisily" ]
+    names: [ "Jacob", "Mark", "Brian", "Lucas", "Johnny", "Joshua", "He", "She", "Jae" ],
+    verbs: [ "speaks", "eats", "drinks", "walks", "sleeps", "studies", "sings", "runs", "dances" ],
+    adverbs: [ "slowly", "quickly", "noisily", "badly", "cheerfully"]
 };
 
 var i;
