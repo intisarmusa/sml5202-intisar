@@ -1,10 +1,3 @@
-
-<html>
-<head>
-<title>Idioms</title>
-</head>
-<body>
-
 <h1>Random Idiom Using JSON</h1>
 
 <button type="button" class="new-quote button">Show Idiom</button>
