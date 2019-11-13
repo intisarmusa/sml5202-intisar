@@ -2,7 +2,7 @@ theme: jekyll-theme-cayman
 title: Intisar's Page
 description: An example on how to use GitHub Pages
 github:
-  page2: page1.html
-  page3: page2.html
+  page2: html.html
+  page3: sentences.html
   page4: idioms.html
   page5: exercises.html
