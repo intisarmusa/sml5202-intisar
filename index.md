@@ -23,15 +23,15 @@
   <li>Sunshine</li>
 
 <hr>
-<h2><strong>Links to all pages</strong></h2>
-<a href="https://intisarmusa.github.io/sml5202-intisar/about.html">ABOUT</a>
+  <h2><strong>Links to all pages</strong></h2>
+  <a href="https://intisarmusa.github.io/sml5202-intisar/about.html">ABOUT</a>
 
-<a href="https://intisarmusa.github.io/sml5202-intisar/vocabulary.html">VOCABULARY</a>
+  <a href="https://intisarmusa.github.io/sml5202-intisar/vocabulary.html">VOCABULARY</a>
 
-<a href="https://intisarmusa.github.io/sml5202-intisar/sentences.html">SENTENCE FORMATION</a>
+  <a href="https://intisarmusa.github.io/sml5202-intisar/sentences.html">SENTENCE FORMATION</a>
 
-<a href="https://intisarmusa.github.io/sml5202-intisar/phrases.html">PHRASES</a>
+  <a href="https://intisarmusa.github.io/sml5202-intisar/phrases.html">PHRASES</a>
 
-<a href="https://intisarmusa.github.io/sml5202-intisar/furtherstudy.html">FURTHER STUDY</a>
+  <a href="https://intisarmusa.github.io/sml5202-intisar/furtherstudy.html">FURTHER STUDY</a>
 
 
