@@ -2,8 +2,8 @@ theme: jekyll-theme-cayman
 title: TRIP TO DJIBOUTI ✈ LEARN FRENCH	
 description: A website to help you make the most of your trip to Djibouti
 github:
-  page2: html.html
-  page3: sentences.html
-  page4: idioms.html
-  page5: exercises.html
+  page2: about.html
+  page3: vocabulary.html
+  page4: sentences.html
+  page5: phrases.html
   page6: furtherstudy.html
