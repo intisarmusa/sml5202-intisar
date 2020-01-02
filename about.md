@@ -1,7 +1,7 @@
-<h1>HTML Part 2 Homework</h1>
-<p>The date is the 15<sup>th</sup> of October, 2019<p>
+<h1>Djibouti</h1>
+<p>Djibouti is a small country in the Horn of Africa with approximately 972,000 residents. Many languages are spoken in the country, including French, Arabic, Somali and Afar. The majority of people are Muslims. <p>
   
-  <img src="https://images.unsplash.com/photo-1460627390041-532a28402358?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" alt="SUNSET ON BEACH" >
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d999762.1798604513!2d42.066875380510076!3d11.812775732213032!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1622d46734f9f601%3A0x1472bba7ef0f5b88!2sDjibouti!5e0!3m2!1sen!2suk!4v1577983932238!5m2!1sen!2suk" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
   
   <dl>
   <dt>Happiness</dt>
