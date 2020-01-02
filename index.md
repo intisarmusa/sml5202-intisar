@@ -22,8 +22,8 @@
   <li>Fast & Furious</li>
   <li>Sunshine</li>
 
-<p> Links </p>
-
+<hr>
+<p><strong>Links</strong></p>
 <a href="https://intisarmusa.github.io/sml5202-intisar/about.html">ABOUT</a>
 
 <a href="https://intisarmusa.github.io/sml5202-intisar/vocabulary.html">VOCABULARY</a>
