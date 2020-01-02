@@ -2,17 +2,17 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_Djibouti.svg/1920px-Flag_of_Djibouti.svg.png" alt="Djibouti Flag" >
 
-  <p>My name is Intisar and I am a second year French student. I am from London and was born and raised here. 
+  <p>This website aims to get you familiar with common words and phrases to aide you in your travels to Djibouti.  
   <a href="https://hub.qmplus.qmul.ac.uk/artefact/internal/index.php"> Visit my QMPlus Hub Page for SML209!</a>
    <p/>
   
   <hr>
-  <h3>To Do List</h3>
-  <ul>
-  <li>Do my French homework</li>
-  <li>Call my cat</li>
-  <li>Watch the Joker</li>
-  </ul>
+  <h3>Aims of this website</h3>
+  <ol>
+  <li>To gain basic communication skills to hold a simple conversations in French</li>
+  <li>Learn about Djiboutian culture through French</li>
+  <li>Build your vocabulary</li>
+  </ol>
   <hr>
   
   <h4>My Favourite Things</h4>
@@ -22,10 +22,15 @@
   <li>Fast & Furious</li>
   <li>Sunshine</li>
 
-<a href="https://intisarmusa.github.io/sml5202-intisar/page1.html">Page 1</a>
+<p> Links </p>
+<a href="https://intisarmusa.github.io/sml5202-intisar/about.html">ABOUT</a>
 
-<a href="https://intisarmusa.github.io/sml5202-intisar/page2.html">Page 2</a>
+<a href="https://intisarmusa.github.io/sml5202-intisar/vocabulary.html">VOCABULARY/a>
 
-<a href="https://intisarmusa.github.io/sml5202-intisar/idioms.html">Idiom</a>
+<a href="https://intisarmusa.github.io/sml5202-intisar/sentences.html">SENTENCE FORMATION</a>
+
+<a href="https://intisarmusa.github.io/sml5202-intisar/phrases.html">PHRASES</a>
+
+<a href="https://intisarmusa.github.io/sml5202-intisar/furtherstudy.html">FURTHER STUDY</a>
 
 
