@@ -6,16 +6,12 @@
 <iframe src="https://h5p.org/h5p/embed/688458" width="1090" height="638" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
   
   
+  <hr>
   
-  
-  
-  <html lang="fr">
-  <table>
-    <tr><th>Colour</th><th>Translation(1<sup>er</sup>personne sing.)</th></tr>
-    <tr><td>Blue</td><td>Bleu(e)</td>
-    <tr><td>Green</td><td>Vert(e)</td>
-    <tr><td>Red</td><td>Rouge</td>
-    <tr><td>Pink</td><td>Rose</td>
-    <tr><td>Grey</td><td>Gris(e)</td>
-    <tr><td>Black</tf><td>Noir(e)</td>
+ <iframe src="https://h5p.org/h5p/embed/688522" width="1090" height="686" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+ 
+<hr>
 
+<h1> A little quiz for recap. All in French! </h1>
+
+<iframe src="https://h5p.org/h5p/embed/688560" width="1090" height="638" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
