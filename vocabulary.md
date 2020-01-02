@@ -28,3 +28,15 @@ document.getElementById("demo").innerHTML = text;
 }
 
 </script>
+
+
+<hr>
+  <html lang="fr">
+  <table>
+    <tr><th>Colour</th><th>Translation(1<sup>er</sup>personne sing.)</th></tr>
+    <tr><td>Blue</td><td>Bleu(e)</td>
+    <tr><td>Green</td><td>Vert(e)</td>
+    <tr><td>Red</td><td>Rouge</td>
+    <tr><td>Pink</td><td>Rose</td>
+    <tr><td>Grey</td><td>Gris(e)</td>
+    <tr><td>Black</tf><td>Noir(e)</td>
