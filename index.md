@@ -23,7 +23,7 @@
   <li>Sunshine</li>
 
 <hr>
-<p><strong>Links to all pages</strong></p>
+<h5><strong>Links to all pages</strong></h5>
 <a href="https://intisarmusa.github.io/sml5202-intisar/about.html">ABOUT</a>
 
 <a href="https://intisarmusa.github.io/sml5202-intisar/vocabulary.html">VOCABULARY</a>
