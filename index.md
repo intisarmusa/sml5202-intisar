@@ -23,9 +23,10 @@
   <li>Sunshine</li>
 
 <p> Links </p>
+
 <a href="https://intisarmusa.github.io/sml5202-intisar/about.html">ABOUT</a>
 
-<a href="https://intisarmusa.github.io/sml5202-intisar/vocabulary.html">VOCABULARY/a>
+<a href="https://intisarmusa.github.io/sml5202-intisar/vocabulary.html">VOCABULARY</a>
 
 <a href="https://intisarmusa.github.io/sml5202-intisar/sentences.html">SENTENCE FORMATION</a>
 
