@@ -15,12 +15,6 @@
   </ol>
   <hr>
   
-  <h4>My Favourite Things</h4>
-  
-<ol>
-  <li>Popcorn</li>
-  <li>Fast & Furious</li>
-  <li>Sunshine</li>
 
 <hr>
   <h2><strong>Links to all pages</strong></h2>
