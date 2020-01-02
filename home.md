@@ -1,5 +1,6 @@
-<h1><strong>Welcome to my website</strong></h1>
+<h1><strong>French 101</strong></h1>
 
+<img src="https://en.wikipedia.org/wiki/Outline_of_Djibouti#/media/File:Flag_of_Djibouti.svg" alt="Djibouti Flag">
 
   <p>My name is Intisar and I am a second year French student. I am from London and was born and raised here. 
   <a href="https://hub.qmplus.qmul.ac.uk/artefact/internal/index.php"> Visit my QMPlus Hub Page for SML209!</a>
