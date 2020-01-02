@@ -1,4 +1,4 @@
-<h1><strong>French 101</strong></h1>
+<h1><strong>HOME</strong></h1>
 
 <img src="https://en.wikipedia.org/wiki/Outline_of_Djibouti#/media/File:Flag_of_Djibouti.svg" alt="Djibouti Flag">
 
