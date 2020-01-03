@@ -1,15 +1,13 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_Djibouti.svg/1920px-Flag_of_Djibouti.svg.png" alt="Djibouti Flag" >
 
   <p>This website aims to get you familiar with common words and phrases to aide you in your travels to Djibouti.  
-  <a href="https://hub.qmplus.qmul.ac.uk/artefact/internal/index.php"> Visit my QMPlus Hub Page for SML209!</a>
-   <p/>
-  
+ 
   <hr>
   <h3>Aims of this website</h3>
   <ol>
-  <li>To gain basic communication skills to hold a simple conversations in French</li>
+  <li>To gain basic communication skills in order to hold a simple conversations in French</li>
   <li>Learn about Djiboutian culture through French</li>
-  <li>Build your vocabulary</li>
+  <li>Build your vocabulary and learn common phrases</li>
   </ol>
   <hr>
   
