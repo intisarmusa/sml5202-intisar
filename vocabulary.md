@@ -23,23 +23,13 @@
 <h1><strong>Les verbes</strong></h1>
 
 <iframe src="https://h5p.org/h5p/embed/688990" width="1090" height="402" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
-  
-  
-<iframe src="https://h5p.org/h5p/embed/688975" width="1090" height="782" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
 
 <hr>
-<h1>Résumé. <i>Recap</i></h1>
-  <html lang="fr">
-  <table>
-    <tr><th>Colour</th><th>Translation</th></tr>
-    <tr><td>Blue</td><td>Bleu(e)</td>
-    <tr><td>Green</td><td>Vert(e)</td>
-    <tr><td>Red</td><td>Rouge</td>
-    <tr><td>Pink</td><td>Rose</td>
-    <tr><td>Grey</td><td>Gris(e)</td>
-    <tr><td>Black</td><td>Noir(e)</td>
-    <tr><td>White</td><td>Blanc(he)</td>
-    <tr><td>Purple</td><td>Violet(te)</td>
-    <tr><td>Yellow</td><td>Jeune</td>
-    <tr><td>Orange</td><td>Orange</td>
+<h1>QUIZZES</h1>
 
+<p>Quiz 1</p>
+<iframe src="https://h5p.org/h5p/embed/688975" width="1090" height="782" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+<p>Quiz 2</p>
+<iframe src="https://h5p.org/h5p/embed/689063" width="1090" height="806" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
