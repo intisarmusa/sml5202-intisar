@@ -17,7 +17,7 @@
      
 <iframe src="https://h5p.org/h5p/embed/689078" width="1090" height="526" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-<h2>Adjectifs </h2>
+<h2>Adjectifs <a href="https://intisarmusa.github.io/sml5202-intisar/vocabulary.html">VOCABULARY</a></h2>
 
 <iframe src="https://h5p.org/h5p/embed/689087" width="1090" height="307" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
