@@ -8,8 +8,8 @@
  <tr><td>Duolingo</td><td><a href="https://www.duolingo.com">Beginner/Intermediate</a></td>
     <tr><td>BBC Bitesize</td><td><a href="https://www.memrise.com/login/?next=/home/">Beginner/Intermediate</a></td>
     <tr><td>Word Reference</td><td><a href="https://www.bbc.co.uk/bitesize/subjects/z9dqxnb">Beginner (GCSE)</a></td>
-    <tr><td>Collins French Dictionary</td><td><a href="https://www.collinsdictionary.com/dictionary/english-french">All levels</a>(e)</td>
-    <tr><td>Columbia edu</td><td><a href="http://www.columbia.edu/~ab410/drills.html">Intermediate</a>(e)</td>
+    <tr><td>Collins French Dictionary</td><td><a href="https://www.collinsdictionary.com/dictionary/english-french">All levels</a></td>
+    <tr><td>Columbia edu</td><td><a href="http://www.columbia.edu/~ab410/drills.html">Intermediate</a></td>
     
 
 
