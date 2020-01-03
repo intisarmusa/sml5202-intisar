@@ -16,7 +16,7 @@
     <tr><td>Elles (a group of feminine subjects)</td><td>Elles</td>
       
  <hr>
- <p>Refer to article table below</p?
+ <p>Refer to article table below before doing this exercise</p>
 
 <iframe src="https://h5p.org/h5p/embed/689078" width="1090" height="526" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
