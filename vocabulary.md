@@ -1,4 +1,4 @@
-<p>Ici, nous apprendrons un vocabulaire utile pour vous aider à former des phrases plus tard dans le cours!. <i>Here, we will learn useful vocabulary that will help you form phrases later on in the course!</i></p>
+<p>Ici, nous apprendrons un vocabulaire utile pour vous aider à former des phrases plus tard dans le cours! <i>Here, we will learn useful vocabulary that will help you form phrases later on in the course!</i></p>
 
 <hr>
   <html lang="fr">
