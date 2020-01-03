@@ -1,34 +1,4 @@
-<h1>Create Sentences</h1>
-<button onclick="makeSentence()">Make Sentence</button>
-
-
-<p id="demo"></p>
-
-
-<script>
-function makeSentence(){
-var person = {
-    names: [ "Jacob", "Mark", "Brian", "Lucas", "Johnny", "Joshua", "He", "She", "Jae" ],
-    verbs: [ "speaks", "eats", "drinks", "walks", "sleeps", "studies", "sings", "runs", "dances" ],
-    adverbs: [ "slowly", "quickly", "noisily", "badly", "cheerfully"]
-};
-
-var i;
-var text = "";
-for(i = 0; i < person.names.length; i++) {
-name = person.names[i];
-verb = person.verbs[Math.floor(Math.random() * person.verbs.length)];
-adverb = person.adverbs[Math.floor(Math.random() * person.adverbs.length)];
-
-text += name + " " + verb + " " + adverb + ".<br>"
-
-document.getElementById("demo").innerHTML = text;
-
-}
-}
-
-</script>
-
+<p>Ici, nous apprendrons un vocabulaire utile pour vous aider à former des phrases plus tard dans le cours!. <i>Here, we will learn useful vocabulary that will help you form phrases later on in the course!</i></p>
 
 <hr>
   <html lang="fr">
@@ -40,3 +10,4 @@ document.getElementById("demo").innerHTML = text;
     <tr><td>Pink</td><td>Rose</td>
     <tr><td>Grey</td><td>Gris(e)</td>
     <tr><td>Black</tf><td>Noir(e)</td>
+
