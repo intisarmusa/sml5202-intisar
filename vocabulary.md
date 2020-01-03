@@ -15,4 +15,8 @@
     <tr><td>Pink</td><td>Rose</td>
     <tr><td>Grey</td><td>Gris(e)</td>
     <tr><td>Black</td><td>Noir(e)</td>
+    <tr><td>White</td><td>Blanc(he)</td>
+    <tr><td>Purple</td><td>Violet(te)</td>
+    <tr><td>Yellow</td><td>Jeune</td>
+    <tr><td>Orange</td><td>Orange</td>
 
