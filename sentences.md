@@ -30,7 +30,7 @@
 
 
  
- <h1>Examples (Je) </h1>
+ <h2>Examples (Je) </h2>
 <button onclick="makeSentence()">Make Sentence</button>
 
 
