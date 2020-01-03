@@ -4,15 +4,12 @@
  
   <table>
     <tr><th>Website</th><th>Level</th></tr>
-    <tr><td>Memrise</td><td><a href="https://www.memrise.com/login/?next=/home/">Here</a></td>
-    <tr><td>Duolingo</td><td>Vert(e)</td>
-    <tr><td>BBC Bitesize</td><td>Rouge</td>
-    <tr><td>Pink</td><td>Rose</td>
-    <tr><td>Grey</td><td>Gris(e)</td>
-    <tr><td>Black</td><td>Noir(e)</td>
-    <tr><td>White</td><td>Blanc(he)</td>
-    <tr><td>Purple</td><td>Violet(te)</td>
-    <tr><td>Yellow</td><td>Jeune</td>
-    <tr><td>Orange</td><td>Orange</td>
+    <tr><td>Memrise</td><td><a href="https://www.memrise.com/login/?next=/home/">Beginner/Intermediate</a></td>
+ <tr><td>Duolingo</td><td><a href="https://www.duolingo.com">Beginner/Intermediate</a></td>
+    <tr><td>BBC Bitesize</td><td><a href="https://www.memrise.com/login/?next=/home/">Beginner/Intermediate</a></td>
+    <tr><td>Word Reference</td><td><a href="https://www.bbc.co.uk/bitesize/subjects/z9dqxnb">Beginner (GCSE)</a></td>
+    <tr><td>Collins French Dictionary</td><td><a href="https://www.collinsdictionary.com/dictionary/english-french">All levels</a>(e)</td>
+    <tr><td>Columbia edu</td><td><a href="http://www.columbia.edu/~ab410/drills.html">Intermediate</a>(e)</td>
+    
 
 
