@@ -1,4 +1,3 @@
-<hr>
 <h1>Articles</h1>
 <p>Ici, nous allons apprendre les articles féminins, masculins et pluriels en français. <i>Here, we are going to learn the feminine, masculine and plural articles in French</i></p>
 
