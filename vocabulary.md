@@ -1,8 +1,31 @@
 <p>Ici, nous apprendrons un vocabulaire utile pour vous aider à former des phrases plus tard dans le cours! <i>Here, we will learn useful vocabulary that will help you form phrases later on in the course!</i></p>
 
-<h1>Les couleurs!</h1>
+<h1><strong>Les couleurs!</strong></h1>
 
 <iframe src="https://h5p.org/h5p/embed/688950" width="1090" height="642" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+<h1><strong>Nourriture et boisson! <i>Food and Drink!</i></strong></h1>
+
+<iframe src="https://h5p.org/h5p/embed/688966" width="1090" height="642" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+<h1><strong>Les Nombres. <i>Numbers</strong></i>
+  
+  <iframe src="https://h5p.org/h5p/embed/688979" width="1090" height="642" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+  
+  
+<h1><strong>Les adjectifs</strong></h1>
+
+<iframe src="https://h5p.org/h5p/embed/688985" width="1090" height="642" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+
+  
+  
+<h1><strong>Les verbes</strong></h1>
+
+<iframe src="https://h5p.org/h5p/embed/688990" width="1090" height="402" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+  
+  
+<iframe src="https://h5p.org/h5p/embed/688975" width="1090" height="782" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 <hr>
 <h1>Résumé. <i>Recap</i></h1>
