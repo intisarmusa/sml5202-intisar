@@ -8,7 +8,7 @@
 <h1>Résumé. <i>Recap</i></h1>
   <html lang="fr">
   <table>
-    <tr><th>Colour</th><th>Translation(1<sup>er</sup>personne sing.)</th></tr>
+    <tr><th>Colour</th><th>Translation</th></tr>
     <tr><td>Blue</td><td>Bleu(e)</td>
     <tr><td>Green</td><td>Vert(e)</td>
     <tr><td>Red</td><td>Rouge</td>
