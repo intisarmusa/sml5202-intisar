@@ -1,5 +1,3 @@
-<h1><strong>HOME</strong></h1>
-
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_Djibouti.svg/1920px-Flag_of_Djibouti.svg.png" alt="Djibouti Flag" >
 
   <p>This website aims to get you familiar with common words and phrases to aide you in your travels to Djibouti.  
