@@ -1,6 +1,6 @@
 <p>Ici, nous apprendrons un vocabulaire utile pour vous aider à former des phrases plus tard dans le cours! <i>Here, we will learn useful vocabulary that will help you form phrases later on in the course!</i></p>
 
-<h1> Step One: Go through these slideshows and learn the vocabulary!<h1>
+<h1><strong>Step One: Go through these slideshows and learn the vocabulary!</strong><h1>
 
 <h2><strong>Les couleurs!</strong></h2>
 
@@ -25,12 +25,12 @@
 
 <hr>
 
-<h1>Step Two: Watch these videos and listen to the pronunciation!<h1>
+<h1><strong>Step Two: Watch these videos and listen to the pronunciation!</strong><h1>
   
 <iframe src="https://h5p.org/h5p/embed/690057" width="1090" height="638" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 <hr>
-<h1>Step Three: Quiz yourself!<h1>
+<h1><strong>Step Three: Quiz yourself!</strong><h1>
 
 
 <p>Quiz 1</p>
